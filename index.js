@@ -14,4 +14,4 @@ function addg(x) {
 }
 
 window.addh = addh
-window.addg = addh
+window.addg = addg
