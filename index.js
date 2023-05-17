@@ -1,7 +1,7 @@
-let home = 0
-let guest = 0
-let scorehome = document.getElementById("homedisplay")
-let scoreguest = document.getElementById("guestdisplay")
+let home = 0;
+let guest = 0;
+let scorehome = document.getElementById("homedisplay");
+let scoreguest = document.getElementById("guestdisplay");
 
 function addh(x) {
     home += x;
