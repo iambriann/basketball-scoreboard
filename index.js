@@ -12,3 +12,6 @@ function addg(x) {
     guest += x;
     scoreguest.textContent = guest;
 }
+
+window.addh = addh
+window.addg = addh
