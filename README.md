@@ -1,4 +1,6 @@
 # co79d40649eed84003fcfe314
+To visit scoreboard site go to:
+sparkling-cassata-d3a030.netlify.app
 
 Quick start:
 
